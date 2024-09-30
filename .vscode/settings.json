@@ -1,0 +1,7 @@
+{
+    "jdk.runConfig.cwd": "src",
+    "java.project.sourcePaths": [
+        "src"
+    ],
+    "java.dependency.packagePresentation": "flat",
+}
